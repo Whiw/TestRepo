@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-23.3.0_0a9d4275102033d302ff66b011be15840b3fe711.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.3.0_29327596cb8e29199a96118846f86edb156d7262.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-support-v13-23.3.0_2dc35eed99d85b8cd0c6a607710c6b1400722c53.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\achartengine-0.6.0\achartengine-0.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="726c7bd0ef0ca4ffe04367f8c81f50d5d68a438d">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\achartengine-0.6.0_b3ef14b1b0109bd4d0beddf293a147070ce9f286.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-23.3.0_961d70f8db98dca059b795dec5bf146de34a412a.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_849afb052cbd47be4c3af1e3b567e1320c917dab.jar" />
+    </item>
+    <item
+        jar="C:\Users\young\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\young\Downloads\TempHumiCheckerTest-master\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\support-annotations-23.3.0_06fff2db9318fc8ed2cc48ada0cf2c3e3c882acb.jar" />
+    </item>
+
+</items>

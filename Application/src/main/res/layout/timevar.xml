@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/timeLimitTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Time Limit(ms) : "
+        android:layout_marginBottom="@dimen/margin_large"
+        />
+    <EditText
+        android:id = "@+id/TimeLimit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/timeLimitTextView"
+        android:layout_alignBaseline="@id/timeLimitTextView"
+        android:inputType="number"
+        />
+    <TextView
+        android:id="@+id/timeIntervalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/timeLimitTextView"
+        android:text = "Time Interval(ms) : "
+        />
+    <EditText
+        android:id = "@+id/TimeInterval"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/timeIntervalTextView"
+        android:layout_above="@id/timeLimitTextView"
+        android:inputType="number"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/timeLimitTextView"
+        android:layout_alignParentRight="true"
+        android:text = "Execute"
+        android:id="@+id/executeButton"
+        android:onClick="execution"
+        />
+    <TextView
+        android:id="@+id/Pairnum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/timeIntervalTextView"
+        />
+</RelativeLayout>
